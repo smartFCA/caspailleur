@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "caspailleur"
-version = "0.2.1"
+version = "0.2.2"
 description = "Minimalistic python package for mining many concise data representations. Part of SmartFCA project"
 readme = "README.md"
 authors = [{ name = "Egor Dudyrev" }]
@@ -27,7 +27,7 @@ requires-python = ">=3.8"
 
 
 [project.urls]
-Homepage = "https://github.com/EgorDudyrev/caspailleur"
+Homepage = "https://github.com/smartFCA/caspailleur"
 
 
 [tool.setuptools]

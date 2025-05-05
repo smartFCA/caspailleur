@@ -1,6 +1,6 @@
 # Changelog
 
-## Actual GitHub Version
+## v0.2.2
 
 ### Fixes
 Fix the bug with mining all implications instead of the stable ones (and vice versa) in `csp.mine_implications`.
@@ -48,10 +48,13 @@ Implement function `csp.mine_equivalence_classes.iter_minimal_broad_clusterings_
 So the function give preference to clusterings based on the order in which the individual clusters appear in the input: 
 the smaller is the index of a cluster, the earlier it will be tested for clustering.
 
-
 ### Refactoring
 
 Add more structure to the code of  `csp.mine_concepts` function. Now it should be a bit more understandable.
+
+### Auxiliary
+
+Transfer GitHub repository for the package to smartFCA organisation account: https://github.com/smartFCA.
 
 
 ## v0.2.1 

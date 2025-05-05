@@ -5,4 +5,4 @@ from .indices import linearity_index, distributivity_index
 
 from .api import iter_descriptions, mine_descriptions, mine_concepts, mine_implications
 
-__version__ = '0.2.1'
+__version__ = '0.2.2'
