@@ -6,7 +6,7 @@
 #
 bitarray==3.3.2
     # via caspailleur (pyproject.toml)
-contourpy==1.3.2
+contourpy==1.3.0
     # via matplotlib
 cycler==0.12.1
     # via matplotlib
