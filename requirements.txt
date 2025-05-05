@@ -22,7 +22,7 @@ joblib==1.5.0
     # via
     #   scikit-learn
     #   scikit-mine
-kiwisolver==1.4.8
+kiwisolver==1.4.7
     # via matplotlib
 matplotlib==3.10.1
     # via scikit-mine
