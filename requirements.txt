@@ -4,31 +4,31 @@
 #
 #    pip-compile pyproject.toml
 #
-bitarray==3.0.0
+bitarray==3.3.2
     # via caspailleur (pyproject.toml)
-contourpy==1.0.7
+contourpy==1.3.2
     # via matplotlib
-cycler==0.11.0
+cycler==0.12.1
     # via matplotlib
 dataclasses==0.6
     # via scikit-mine
 deprecation==2.1.0
     # via caspailleur (pyproject.toml)
-fonttools==4.39.4
+fonttools==4.57.0
     # via matplotlib
-graphviz==0.20.1
+graphviz==0.20.3
     # via scikit-mine
-joblib==1.2.0
+joblib==1.5.0
     # via
     #   scikit-learn
     #   scikit-mine
-kiwisolver==1.4.4
+kiwisolver==1.4.8
     # via matplotlib
-matplotlib==3.7.1
+matplotlib==3.10.1
     # via scikit-mine
-networkx==3.1
+networkx==3.4.2
     # via scikit-mine
-numpy==1.26.4
+numpy==2.2.5
     # via
     #   caspailleur (pyproject.toml)
     #   contourpy
@@ -36,47 +36,47 @@ numpy==1.26.4
     #   pandas
     #   scikit-learn
     #   scipy
-packaging==23.1
+packaging==25.0
     # via
     #   deprecation
     #   matplotlib
 pandas==2.2.3
     # via scikit-mine
-pillow==9.5.0
+pillow==11.2.1
     # via matplotlib
-pydot==1.4.2
+pydot==4.0.0
     # via scikit-mine
-pyparsing==3.0.9
+pyparsing==3.2.3
     # via
     #   matplotlib
     #   pydot
-pyroaring==0.4.2
+pyroaring==1.0.0
     # via scikit-mine
-python-dateutil==2.8.2
+python-dateutil==2.9.0.post0
     # via
     #   matplotlib
     #   pandas
-pytz==2023.3
+pytz==2025.2
     # via pandas
 pyyaml==6.0.2
     # via caspailleur (pyproject.toml)
-scikit-learn==1.2.2
+scikit-learn==1.6.1
     # via scikit-mine
 scikit-mine==1.0.0
     # via caspailleur (pyproject.toml)
-scipy==1.10.1
+scipy==1.15.2
     # via
     #   scikit-learn
     #   scikit-mine
-six==1.16.0
+six==1.17.0
     # via python-dateutil
 sortedcontainers==2.4.0
     # via scikit-mine
-threadpoolctl==3.1.0
+threadpoolctl==3.6.0
     # via scikit-learn
-tqdm==4.65.0
+tqdm==4.67.1
     # via caspailleur (pyproject.toml)
-tzdata==2023.3
+tzdata==2025.2
     # via pandas
 wget==3.2
     # via scikit-mine
