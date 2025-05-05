@@ -64,7 +64,7 @@ scikit-learn==1.6.1
     # via scikit-mine
 scikit-mine==1.0.0
     # via caspailleur (pyproject.toml)
-scipy==1.15.2
+scipy==1.13.1
     # via
     #   scikit-learn
     #   scikit-mine
