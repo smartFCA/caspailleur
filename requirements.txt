@@ -26,7 +26,7 @@ kiwisolver==1.4.7
     # via matplotlib
 matplotlib==3.9.4
     # via scikit-mine
-networkx==3.4.2
+networkx==3.2.1
     # via scikit-mine
 numpy==2.2.5
     # via
